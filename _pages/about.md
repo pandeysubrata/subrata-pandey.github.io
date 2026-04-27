@@ -6,7 +6,7 @@ author_profile: true
 
 ## Subrata Pandey
 
-PhD Research Scholar in the Electrical Engineering Department at the National Institute of Technology Durgapur.
+PhD Scholar in Electrical Engineering at National Institute of Technology Durgapur.
 
 ### Research Interests
 - Physiological Control Systems
