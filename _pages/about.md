@@ -9,12 +9,12 @@ author_profile: true
 PhD Scholar in Electrical Engineering at National Institute of Technology Durgapur.
 
 ### Research Interests
+- Physiological Control Systems
+- Robotics & Autonomous Systems
+- Sensor Fusion & Embedded Systems
 - Biomedical Signal Processing  
 - Smart Wearable Systems  
-- Robotics & Autonomous Systems  
-- Control Systems  
-- Sensor Fusion & Embedded Systems  
-
+  
 ### Experience
 - Project Associate, CSIR-CMERI  
 - Teaching Associate, Seacom Skills University  
@@ -23,7 +23,7 @@ PhD Scholar in Electrical Engineering at National Institute of Technology Durgap
 ### Education
 - PhD (EE), NIT Durgapur (2024–Present)  
 - M.Tech (Mechatronics), NITTTR Kolkata  
-- B.Tech (EE), BIET  
+- B.Tech (EE), BIET, Suri  
 
 ### Contact
-Email: subra7a@gmail.com
+Email: subratapandey.ee@gmail.com
