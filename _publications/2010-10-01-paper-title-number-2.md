@@ -1,22 +1,22 @@
 ---
-title: "Optimization-Based PID Controller Design for DC Motor Speed Control"
+title: "Biomimetic Artificial Skin for Robots: A Review"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper presents an optimization-based approach for tuning PID controllers to improve the speed control performance of DC motors.'
-date: February 2023
+excerpt: 'This paper reviews biomimetic artificial skin (e-skin) technologies for robotics and their role in enhancing sensing, safety, and human-like interaction.'
+date: 2023-02-27
 venue: 'Indian Journal of Engineering'
 slidesurl: ''
 paperurl: 'https://www.discoveryjournals.org/engineering/current_issue/2023/v20/n53/e3ije1003.pdf'
-citation: 'Pandey, S. et al. (2023). "Optimization-Based PID Controller Design for DC Motor Speed Control." <i>Indian Journal of Engineering</i>, 20(53).'
+citation: 'Pandey, S., Mandal, S. K. (2023). "Biomimetic Artificial Skin for Robots: A Review." <i>Indian Journal of Engineering</i>, 20, e3ije1003.'
 ---
 
-This paper focuses on the design and implementation of an optimized PID controller for DC motor speed control using modern optimization techniques. The study highlights how intelligent tuning methods can significantly enhance system performance compared to conventional PID tuning approaches.
+This paper presents a comprehensive review of biomimetic artificial skin (e-skin) technologies used in robotics. It discusses how e-skin integrates sensors, flexible electronics, and intelligent processing to mimic human tactile sensing and improve robotic interaction with the environment.
 
-The work includes:
-- Application of optimization algorithms for PID parameter tuning
-- Performance comparison with traditional tuning methods
-- Improvement in rise time, settling time, and overshoot
-- Validation through simulation and analysis
+Key highlights include:
+- Overview of transduction mechanisms and sensing modalities in e-skin
+- Role of artificial intelligence in processing tactile data
+- Applications in robotics, prosthetics, and wearable systems
+- Challenges such as power consumption, flexibility, and scalability
 
-The results demonstrate that optimization-based PID tuning provides better stability, accuracy, and robustness, making it highly suitable for industrial motor control applications.
+The study emphasizes the importance of e-skin in advancing next-generation robotics and human–machine interaction systems, while also outlining current limitations and future research directions. :contentReference[oaicite:1]{index=1}
