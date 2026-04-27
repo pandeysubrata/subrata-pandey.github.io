@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: "Subrata Pandey"
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Subrata Pandey"
   conferences:
-    title: 'Conference Papers'
+    title: "Subrata Pandey"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -359,3 +359,26 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+author:
+  name: "Subrata Pandey"
+  avatar: "profile.png"
+  bio: "PhD Scholar in Electrical Engineering at NIT Durgapur"
+  location: "Durgapur, West Bengal, India"
+  email: "subra7a@gmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/pandeysubrata"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=O5_RI1oAAAAJ"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-5952-7438"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Subrata-Pandey"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/pandeysubrata"
